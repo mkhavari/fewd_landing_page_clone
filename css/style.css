@@ -32,6 +32,12 @@ div {
 	font-weight: 500;
 }
 
+li:hover {
+	color: #4c5058;
+	font-weight: 500;
+	cursor: pointer;
+}
+
 .links > li {
 	display: inline-block;
 	margin-left: 1.5em;
