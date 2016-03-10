@@ -55,26 +55,10 @@ div {
 	height: 70px;
 }
 
-.text {
-	color: white;
-	text-align: center;
-	font-family: 'Roboto', sans-serif;
-	margin-top: 15em;
-}
-
-.button {
-	background-color: #f15a29;
-	border-radius: 4px;
-	padding: 1rem 1.5rem;
-	border: 0;
-	width: 10%;
-	display: inline-block;
-}
-
-.background {
-	background-image: url(http://i64.tinypic.com/9bfwo2.jpg);
+.introduction {
+	background-image: url(../images/first-background.jpg);
 	background-position: center bottom;
-	background-size: cover;
 	background-repeat: no-repeat;
+	background-size: cover;
 	height: 45.938rem;
 }
