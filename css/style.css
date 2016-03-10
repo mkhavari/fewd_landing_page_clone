@@ -51,6 +51,22 @@ div {
 	cursor: pointer;
 }
 
-img {
+.logo {
 	height: 70px;
+}
+
+.text {
+	color: white;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+
+.button {
+	background-color: #f15a29;
+	border-radius: 4px;
+	padding: 1rem 1.5rem;
+	margin: 0;
+	border: 0;
+	width: 10%;
+	display: inline-block;
 }
