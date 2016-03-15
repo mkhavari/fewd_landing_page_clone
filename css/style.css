@@ -106,36 +106,41 @@ button:hover {
 	cursor: pointer;
 }
 
-.icons {
+.cases {
 	background-color: #fff;
 	overflow: hidden;
 	padding-bottom: 5rem;
 }
 
-.icons > .content {
+.cases > .content {
 	margin-top: 7.875rem;
 	text-align: center;
 	padding: none;
+	
 }
 
-.icons h2 {
+.cases h2 {
 	font-size: 2.75rem;
 	margin: 0 3.125rem;
 	font-weight: 300;
 }
 
-.icons .devices > li {
-	width: 20%;
-	float: left;
+.cases .devices {
+	width: 19.3333333%;
+	display: inline-block;
+	box-sizing: border-box;
+	border: 1px solid black;
+	height: 4em;
+	margin-top: 2rem;
 }
 
-.icons .devices h3 {
+.cases .devices h3 {
 	font-weight: 400;
 	font-size: 1.563rem;
 
 }
 
-.icons .devices p {
+.cases .devices p {
 	font-weight: 300;
 	font-size: 1.313rem;
 }
