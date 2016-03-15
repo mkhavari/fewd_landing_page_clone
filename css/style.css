@@ -13,7 +13,7 @@ body {
 }
 
 div {
-	border: 1px solid Chocolate;
+	border: 0;
 }
 
 .content {
@@ -23,6 +23,7 @@ div {
 
 .devices {
 	list-style: none;
+
 }
 
 /* Navigation Section */
@@ -132,7 +133,6 @@ button:hover {
 	width: 19.3333333%;
 	display: inline-block;
 	box-sizing: border-box;
-	border: 1px solid black;
 	height: 4em;
 	margin-top: 2rem;
 }
@@ -154,7 +154,6 @@ button:hover {
 	overflow: auto;
 	padding-bottom: 9.375rem;
 	border: 0;
-	border-top: 1px solid #eaebec;
 	box-sizing: border-box;
 }
 
